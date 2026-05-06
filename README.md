@@ -26,7 +26,7 @@ The main goal is to track my technical growth, keep a safe backup of my studies,
 
 The folders are organized according to the subjects taken in the current semester:
 
-- 💻 **[Programming Fundamentals](./T1ESOFT01NA_FUNDAMENTOS_DE_PROGRAMAÇÃO_202611)**
+- 💻 **[Programming Fundamentals](./2026-1_Primeiro_Semestre/T1ESOFT01NA_FUNDAMENTOS_DE_PROGRAMAÇÃO_202611)**
   - Programming logic, algorithms, and control structures.
 - 🌐 **[Web Tools and UX](./T1ESOFT01NA_FERRAMENTAS_WEB_E_UX_202611)**
   - Creation of modern web interfaces, usability, HTML5, CSS3, and user experience principles.
