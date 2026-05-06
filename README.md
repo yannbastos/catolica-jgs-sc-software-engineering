@@ -41,8 +41,8 @@ The folders are organized according to the subjects taken in the current semeste
 
 Languages and technologies I am currently studying and applying (including prior knowledge):
 
-- **Languages:** Python, [Other fundamental language, e.g., C, Java]
-- **Web & Design:** HTML5, CSS3, UX/UI Design
+- **Languages:** Python (Prior knowledge), C *(Learning in Programming Fundamentals)*
+- **Web & Design:** HTML5, CSS3, JavaScript *(Learning in Web Tools and UX)*, UX/UI Design
 - **Data & Analysis:** Data Analysis libraries (Python)
 - **Tools:** Git, GitHub, VS Code
 
@@ -94,8 +94,8 @@ As pastas estão organizadas conforme as disciplinas cursadas no semestre atual:
 
 Linguagens e tecnologias que estou estudando e aplicando nos projetos (incluindo conhecimentos prévios):
 
-- **Linguagens:** Python, [Outra linguagem base, ex: C, Java]
-- **Web & Design:** HTML5, CSS3, UX/UI Design
+- **Linguagens:** Python (Conhecimento prévio), C *(Aprendendo em Fundamentos de Programação)*
+- **Web & Design:** HTML5, CSS3, JavaScript *(Aprendendo em Ferramentas Web e UX)*, UX/UI Design
 - **Dados & Análise:** Bibliotecas de Análise de Dados (Python)
 - **Ferramentas:** Git, GitHub, VS Code
 
@@ -113,5 +113,5 @@ Linguagens e tecnologias que estou estudando e aplicando nos projetos (incluindo
 
 Feito com ☕ e dedicação por **Yann Bastos**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-bastos/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yannbastos)
