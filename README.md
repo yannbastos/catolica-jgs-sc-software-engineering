@@ -28,11 +28,11 @@ The folders are organized according to the subjects taken in the current semeste
 
 - 💻 **[Programming Fundamentals](./2026-1_Primeiro_Semestre/T1ESOFT01NA_FUNDAMENTOS_DE_PROGRAMACAO_202611)**
   - Programming logic, algorithms, and control structures.
-- 🌐 **[Web Tools and UX](./T1ESOFT01NA_FERRAMENTAS_WEB_E_UX_202611)**
+- 🌐 **[Web Tools and UX](./2026-1_Primeiro_Semestre/T1ESOFT01NA_FERRAMENTAS_WEB_E_UX_202611)**
   - Creation of modern web interfaces, usability, HTML5, CSS3, and user experience principles.
-- ⚙️ **[Operating Systems](./T1ESOFT01NA_SISTEMA_OPERACIONAL_202611)**
+- ⚙️ **[Operating Systems](./2026-1_Primeiro_Semestre/T1ESOFT01NA_SISTEMA_OPERACIONAL_202611)**
   - OS architecture, process management, memory, and file systems.
-- 🤝 **[Extensionist Collaborative Learning Project (PAC)](./T1ESOFT01NA_PROJETO_DE_APRENDIZAGEM_COLABORATIVA_EXTENSIONISTA-PAC_ESOFT_202611)**
+- 🤝 **[Extensionist Collaborative Learning Project (PAC)](./2026-1_Primeiro_Semestre/T1ESOFT01NA_PROJETO_DE_APRENDIZAGEM_COLABORATIVA_EXTENSIONISTA-PAC_ESOFT_202611)**
   - Practical application of knowledge in community-focused projects.
 
 ---
