@@ -26,7 +26,7 @@ The main goal is to track my technical growth, keep a safe backup of my studies,
 
 The folders are organized according to the subjects taken in the current semester:
 
-- 💻 **[Programming Fundamentals](./2026-1_Primeiro_Semestre/T1ESOFT01NA_FUNDAMENTOS_DE_PROGRAMAÇÃO_202611)**
+- 💻 **[Programming Fundamentals](./2026-1_Primeiro_Semestre/T1ESOFT01NA_FUNDAMENTOS_DE_PROGRAMACAO_202611)**
   - Programming logic, algorithms, and control structures.
 - 🌐 **[Web Tools and UX](./T1ESOFT01NA_FERRAMENTAS_WEB_E_UX_202611)**
   - Creation of modern web interfaces, usability, HTML5, CSS3, and user experience principles.
@@ -79,13 +79,13 @@ O objetivo principal é acompanhar minha evolução técnica, manter um backup s
 
 As pastas estão organizadas conforme as disciplinas cursadas no semestre atual:
 
-- 💻 **[Fundamentos de Programação](./T1ESOFT01NA_FUNDAMENTOS_DE_PROGRAMAÇÃO_202611)**
+- 💻 **[Fundamentos de Programação](./2026-1_Primeiro_Semestre/T1ESOFT01NA_FUNDAMENTOS_DE_PROGRAMACAO_202611)**
   - Lógica de programação, algoritmos e estruturas de controle.
-- 🌐 **[Ferramentas Web e UX](./T1ESOFT01NA_FERRAMENTAS_WEB_E_UX_202611)**
+- 🌐 **[Ferramentas Web e UX](./2026-1_Primeiro_Semestre/T1ESOFT01NA_FERRAMENTAS_WEB_E_UX_202611)**
   - Criação de interfaces web modernas, usabilidade, HTML5, CSS3 e princípios de experiência do usuário.
-- ⚙️ **[Sistemas Operacionais](./T1ESOFT01NA_SISTEMA_OPERACIONAL_202611)**
+- ⚙️ **[Sistemas Operacionais](./2026-1_Primeiro_Semestre/T1ESOFT01NA_SISTEMA_OPERACIONAL_202611)**
   - Arquitetura de SO, gerenciamento de processos, memória e sistemas de arquivos.
-- 🤝 **[Projeto de Aprendizagem Colaborativa Extensionista (PAC)](./T1ESOFT01NA_PROJETO_DE_APRENDIZAGEM_COLABORATIVA_EXTENSIONISTA-PAC_ESOFT_202611)**
+- 🤝 **[Projeto de Aprendizagem Colaborativa Extensionista (PAC)](./2026-1_Primeiro_Semestre/T1ESOFT01NA_PROJETO_DE_APRENDIZAGEM_COLABORATIVA_EXTENSIONISTA-PAC_ESOFT_202611)**
   - Aplicação prática de conhecimentos em projetos voltados para a comunidade.
 
 ---
